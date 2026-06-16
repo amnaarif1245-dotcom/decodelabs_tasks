@@ -1,7 +1,7 @@
 # Project 1: Social Media Content Planning
 
 ## Brand
-Brew Haven Café
+Strew Haven Café
 
 ## Target Audience
 - University students (18–25)
